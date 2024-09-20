@@ -11,3 +11,6 @@ The one that i thought was intresting was velocity cause it's hard to find veloc
 
 # September 18, 2024
 This is a free week
+
+# September 20, 2024
+I chose to do the dinosaur 3d game and i kinda enjoyed it but i dont know if i would play it for fun.
