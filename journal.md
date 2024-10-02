@@ -14,3 +14,6 @@ This is a free week
 
 # September 20, 2024
 I chose to do the dinosaur 3d game and i kinda enjoyed it but i dont know if i would play it for fun.
+
+# October 2, 2024
+I use alot of computer science in fact i use so much, most of the time i don't even know that i'm using it. I'm always playing games and i always wondered how long or how hard is it to code video games, so i decided that i was gonna see how hard or how long it takes to code a video game.
