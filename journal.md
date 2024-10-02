@@ -17,3 +17,8 @@ I chose to do the dinosaur 3d game and i kinda enjoyed it but i dont know if i w
 
 # October 2, 2024
 I use alot of computer science in fact i use so much, most of the time i don't even know that i'm using it. I'm always playing games and i always wondered how long or how hard is it to code video games, so i decided that i was gonna see how hard or how long it takes to code a video game.
+
+# September 27, 2024
+I think that code combat is easier to use because it explains to me completely and if i still don't understand then it will give me hints on how to do it.
+Block coding didn't really help all that much i mostly learned from code combat i believe that code combat is easier and i can use it easily.
+I think that i had more control on code combat because i could move them freely and 
