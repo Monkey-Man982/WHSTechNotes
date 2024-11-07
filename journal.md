@@ -21,4 +21,7 @@ I use alot of computer science in fact i use so much, most of the time i don't e
 # September 27, 2024
 I think that code combat is easier to use because it explains to me completely and if i still don't understand then it will give me hints on how to do it.
 Block coding didn't really help all that much i mostly learned from code combat i believe that code combat is easier and i can use it easily.
-I think that i had more control on code combat because i could move them freely and 
+I think that i had more control on code combat because i could move them freely and deliberatley.
+
+# October 15, 2024
+Coding helps you with your problem solving skills by helping you learn to analyze all of your options when you're stuck in a pickle. 
