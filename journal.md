@@ -27,3 +27,6 @@ I think that i had more control on code combat because i could move them freely 
 Coding helps you with your problem solving skills by helping you learn to analyze all of your options when you're stuck in a pickle. 
 
 # October 18, 2024
+
+# December 16, 2024
+I honestly am looking foward to this winter break because i get to spend time with my family.
