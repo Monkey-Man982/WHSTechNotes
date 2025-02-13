@@ -30,3 +30,13 @@ Coding helps you with your problem solving skills by helping you learn to analyz
 
 # December 16, 2024
 I honestly am looking foward to this winter break because i get to spend time with my family.
+
+# February 11, 2025
+
+| Shape    | Color | Count |
+| -------- | ----- | ----- |
+| Circle   |       |       |
+| Square   |       |       |
+| Hexagon  |       |       |
+| Triangle |       |       |
+| Octagon  |       |       |
