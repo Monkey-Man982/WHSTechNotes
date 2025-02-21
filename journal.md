@@ -35,11 +35,11 @@ I honestly am looking foward to this winter break because i get to spend time wi
 
 | Shape    | Color | Count |
 | -------- | ----- | ----- |
-| Circle   |       |       |
-| Square   |       |       |
-| Hexagon  |       |       |
-| Triangle |       |       |
-| Octagon  |       |       |
+| Circle   | Green |   7   |
+| Square   | Yellow|   5   |
+| Hexagon  | Brown |   6   |
+| Triangle | Purple|   4   |
+| Octagon  |  Red  |   3   |
 
 # February 18, 2025
 I learned that you always need help when you do something super dumb and need help to hide/fix it is whatever you've done.
