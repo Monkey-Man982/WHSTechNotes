@@ -40,3 +40,6 @@ I honestly am looking foward to this winter break because i get to spend time wi
 | Hexagon  |       |       |
 | Triangle |       |       |
 | Octagon  |       |       |
+
+# February 18, 2025
+I learned that you always need help when you do something super dumb and need help to hide/fix it is whatever you've done.
