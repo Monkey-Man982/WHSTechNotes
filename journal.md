@@ -43,3 +43,13 @@ I honestly am looking foward to this winter break because i get to spend time wi
 
 # February 18, 2025
 I learned that you always need help when you do something super dumb and need help to hide/fix it is whatever you've done.
+
+# March 5, 2025
+
+| Name    | Power | Challenge |
+| :------ | :---- | :-------- |
+| Zara    |Telekenesis|Secure Building|
+| Aether  |Weather Manipulation|Prevent Assassination|
+| Thorne  |Invisibility|Under water rescue|
+| Silver  |Mind control|Retrieve Stolen Goods|
+| Tangier |Shapeshifting|Extract Prisoner|
