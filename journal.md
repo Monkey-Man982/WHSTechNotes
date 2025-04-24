@@ -53,3 +53,4 @@ I learned that you always need help when you do something super dumb and need he
 | Thorne  |Invisibility|Under water rescue|
 | Silver  |Mind control|Retrieve Stolen Goods|
 | Tangier |Shapeshifting|Extract Prisoner|
+
