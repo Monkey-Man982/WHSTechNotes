@@ -54,4 +54,5 @@ I learned that you always need help when you do something super dumb and need he
 | Silver  |Mind control|Retrieve Stolen Goods|
 | Tangier |Shapeshifting|Extract Prisoner|
 
-# May 1, 2025
+# May 19, 2025
+I'm ready, but at the same time I'm not
